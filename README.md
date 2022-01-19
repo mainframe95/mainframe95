@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mainframe95
 - 👀 I'm interested in new ideas
-- 🌱 I’m currently learning how create Telegram bot
+- 🌱 I’m currently learning how create Telegram bot and django-nija
 - 💞️ I’m looking to collaborate on 
 - 📫 DM mensahjunior13@gmail.com
 
