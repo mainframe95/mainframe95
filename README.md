@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mainframe95
-- 👀 I'm interested in new ideas
-- 🌱 I’m currently learning how create Telegram bot and django-nija
-- 💞️ I’m looking to collaborate on 
-- 📫 DM mensahjunior13@gmail.com
+- 👀 I'm looking for new job as python or javascript developer
+- 🌱 i speak french and english
+- 💞️ I’m looking to collaborate on new ideas
+- 📫 Join me on mensahjunior13@gmail.com
 
 <!---
 mainframe95/mainframe95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
